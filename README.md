@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there, I'm William Moraes 👋
+
+- 🔭 I’m currently working as Senior Frontend Engineer at [CWI Software](https://cwi.com.br/)
+- ⚡ Currently my main stack is React with Typescript and NextJs
+- 🌱 I’m currently studyng Informations Systems (Bachelor´s degree)
+- 📫 How to reach me: william.ms.moraes@gmail.com
 
 <!--
 **willMoraes/willMoraes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
